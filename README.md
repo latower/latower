@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am dr. Anna Latour, and I recently joined the [Algorithms group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/algorithmics) of the Computer Science department at Delft University of Technology in the Netherlands, as an assistant professor. For more info, it's probably best to check out [my website](https://latower.github.io).
+
